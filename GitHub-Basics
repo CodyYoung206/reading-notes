@@ -1,0 +1,24 @@
+# Github Basics
+
+## Notes on Github, repository cloning, and collaboration features
+
+[GitGuide](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/#1)     Git Guide with all hotkeys
+
+## Clones
+Cloning a repository onto your computer to be worked on offline is made possible with the github functions clone, commit ,push
+Cloning the online repo to your drive to make additions and edits before saving them with a unique location and history back to the
+file online.
+
+### What ***IS*** Github?
+Github is a free open source distributed version control system designed to handle the smallest and biggest and all in between sized projects
+with speed and efficiency in a very organized and understandbale format
+
+Github repository is where the work will be saved as origin and the file can be remotely opened on your computer.
+Once opened alterations made can be add commit push  ACP to save the newest version which can then be opened up on another computer.
+This allows multiple instances of the same file to bew worked oin simultaneously and collaboration to be executed in the most organized 
+way possible. Each push saves a seperate version with a flow history you can see what changes were made , why they were with the commit,
+and follow that branch or keep going on a seperate tree. Endless posssibilties all centered around easily identifiable history of changes, 
+who made them, why.
+
+Dont forget to commit ***WHY*** a change was made when you make them. This level of documentation removes all uncertainty and keeps
+the project moving forward organized and synchronized to the highest possible level.
